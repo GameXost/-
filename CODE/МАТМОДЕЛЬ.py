@@ -22,7 +22,7 @@ R = 8.314 # универсальная газовая постоянная
 stages = [
 	{"wet_mass": 531_300, "fuel_mass": 248400, "thrust": 8_274_000, "burn_time": 93, "ejection_force": 285, "area": 10},
 	{"wet_mass": 175_700, "fuel_mass": 97200, "thrust": 3_000_000, "burn_time": 130, "ejection_force": 280, "area": 4},
-    {"wet_mass": 39_600, "fuel_mass": 16200, "thrust": 623_920, "burn_time": 78, "ejection_force": 277, "area": 4},
+    	{"wet_mass": 39_600, "fuel_mass": 16200, "thrust": 623_920, "burn_time": 78, "ejection_force": 277, "area": 4},
 ]
 
 
